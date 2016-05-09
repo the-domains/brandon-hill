@@ -1,0 +1,28 @@
+name: Brandon Hill
+favicon: null
+layout_spectrum: 0.9220906340051442
+typography_spectrum: 0.39273449243046343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.18843299732543528
+  lightness: 0.5151278390549123
+  saturation: 0.691762589616701
+  rhythmicContrast: 0.5240783081389964
+purpose: []
